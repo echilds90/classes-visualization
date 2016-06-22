@@ -5,4 +5,4 @@ Get Dependencies:
     npm install
 
 To Run Tests:
-    nmm test
+    npm test
