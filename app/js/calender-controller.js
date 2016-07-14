@@ -7,7 +7,7 @@ app.controller("calendarDemo", function($scope) {
 app.directive("calendar", function() {
     return {
         restrict: "E",
-        templateUrl: "../partials/calendar.html",
+        templateUrl: "views/calendar.html",
         scope: {
             selected: "="
         },
